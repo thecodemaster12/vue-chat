@@ -1,9 +1,11 @@
 <script setup>
+
 </script>
-
+ 
 <template>
-  <h2>App</h2>
+  <main>
+    <nav></nav>
+    <div class=""></div>
+    <div class=""></div>
+  </main>
 </template>
-
-<style scoped>
-</style>
